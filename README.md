@@ -1,6 +1,6 @@
-# Hi, I'm Brad Ekwu Ochigbo 👋
+# Hi, I'm Brad Ekwu Ochigbo, RPh, PhD (Brandeis) 👋
 
-**RWE Analyst | Oncology HEOR | Pharmacoeconomics**
+**RWE Scientist | Health Policy | Oncology HEOR | Pharmacoeconomics**
 
 I build real-world evidence studies and health economic models in oncology, with a focus on treatment patterns, survival outcomes, and healthcare disparities using SEER and claims data.
 
