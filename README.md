@@ -1,4 +1,4 @@
-# Hi, I'm Brad Ekwu-Ochigbo 👋
+# Hi, I'm Brad Ekwu Ochigbo 👋
 
 **RWE Analyst | Oncology HEOR | Pharmacoeconomics**
 
